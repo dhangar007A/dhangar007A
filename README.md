@@ -111,7 +111,7 @@ const abhishekSinghDhangar = {
 | 🎯 Achievement | 📊 Stats | 🌟 Milestone |
 |---|---|---|
 | **CGPA** 7.63/10 @ IIIT Pune | **500+** Problems Solved | **Active** Open Source Contributor |
-| **CodeChef** 3-Star (1646) | **LeetCode** 300+ Questions | **Codeforces** Pupil Rating |
+| **CodeChef** 3-Star (1700) | **LeetCode** 300+ Questions | **Codeforces** Pupil Rating |
 | **GSSOC 2025** Participant | **SSOC 2025** Active | **GitHub** Growing Community |
 
 </div>

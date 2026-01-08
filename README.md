@@ -28,7 +28,7 @@
 <div align="left">
 
 🎓 **3rd Year CSE Student** | Batch of 2027  
-🏛️ **IIIT Pune** | CGPA: 7.63/10  
+🏛️ **IIIT Pune** | CGPA: 7.74/10  
 💻 **MERN Stack Developer** | Building Scalable Web Solutions  
 🏆 **500+ Problems** Solved Across Multiple Platforms  
 🌟 **Open Source Contributor** | GSSOC 2025 & SSOC 2025  

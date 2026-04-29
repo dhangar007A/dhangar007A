@@ -15,7 +15,7 @@
 ## About Me
 - 3rd-year B.Tech CSE student at **IIIT Pune**
 - Building scalable web apps with the **MERN stack**
-- Solved **500+ DSA problems** across coding platforms
+- Solved **1000+ DSA problems** across coding platforms
 - Open-source contributor (**GSSOC 2025**, **SSOC 2025**)
 - Interested in **system design**, **backend engineering**, and **clean architecture**
 

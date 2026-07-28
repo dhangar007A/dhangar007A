@@ -13,7 +13,7 @@
 </p>
 
 ## About Me
-- 3rd-year B.Tech CSE student at **IIIT Pune**
+- 4th-year B.Tech CSE student at **IIIT Pune**
 - Building scalable web apps with the **MERN stack**
 - Solved **1000+ DSA problems** across coding platforms
 - Open-source contributor (**GSSOC 2025**, **SSOC 2025**)
